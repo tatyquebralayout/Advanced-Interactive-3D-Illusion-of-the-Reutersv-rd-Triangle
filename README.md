@@ -9,12 +9,12 @@ lightX: Define a posição da luz no eixo X.
 lightY: Define a posição da luz no eixo Y.
 lightZ: Define a posição da luz no eixo Z.
 
-###Estrutura do Projeto
+### Estrutura do Projeto
 index.html: Arquivo HTML principal contendo a estrutura da página.
 css/style.css: Arquivo CSS para os estilos da página.
 js/sketch.js: Arquivo JavaScript com o código p5.js para renderizar a ilusão e controlar a interatividade.
 
-###Pré-requisitos
+### Pré-requisitos
 Para executar este projeto, você precisará de:
 Um navegador web moderno (Chrome, Firefox, Edge, etc.).
 Um servidor HTTP simples, como o VSCode Live Server (opcional, mas recomendado).
