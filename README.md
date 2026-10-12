@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> **Este projeto mudou de casa.** Agora ele faz parte da galeria [creative-code](https://github.com/tatyquebralayout/creative-code/tree/main/pecas/reutersvard-luz), com demo ao vivo e as outras peças. Este repositório fica arquivado só pra não quebrar links antigos.
+>
+> **This project has moved.** It's now part of the [creative-code](https://github.com/tatyquebralayout/creative-code/tree/main/pecas/reutersvard-luz) gallery, with a live demo and the other pieces. This repository stays archived only so old links keep working.
+
+
 ### Ilusão Interativa Avançada em 3D do Triângulo de Reutersvärd
 Este projeto demonstra uma ilusão interativa em 3D do Triângulo de Reutersvärd usando p5.js. Os usuários podem ajustar a rotação do triângulo e a posição da luz para explorar diferentes perspectivas e efeitos visuais.
 
